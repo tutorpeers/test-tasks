@@ -11,11 +11,11 @@ Please, read the task carefully, focus on the big picture first and then proceed
 2. A host in a public subnet should have a web server and an application server configured with Ansible. The application to run is in the repository in a directory with this file. Use existing Ansible roles and customize their configuration to implement the following setup:
 
     - allow owners of [this](./devops-test-task.pub) ssh keypair to access the server
-    - latest release/* tag in this repository contains a version of the application to run
+    - latest __release/*__ tag in this repository contains a version of the application to run
     - use Nginx as a web server
     - use php-fpm, version 8.0
     - Nginx should connect to php-fpm via a socket file
-    - php-fpm must expose `/status` and `/ping` endpoints for status and health checks. `/status` and `/ping` endpoints must be available for localhost connections only
+    - php-fpm must expose `/status` and `/ping` endpoints for status and health checks. `/status` and `/ping` endpoints must be available for _localhost_ connections only
     - webserver should be available for HTTP connections on port 8883
     - webserver should be accessible over the Internet to all addresses except
       - 37.57.87.0 - 37.57.87.255
