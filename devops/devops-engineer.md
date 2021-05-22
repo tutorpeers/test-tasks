@@ -22,16 +22,6 @@ Please, read the task carefully, focus on the big picture first and then proceed
       - 37.57.86.0 - 37.57.86.255
       - 37.57.85.0 - 37.57.85.255
       - 37.57.80.0 - 37.57.83.255  
-    - Nginx should respond to all 5xx errors with a json response:
-
-    ```json
-      {
-        "error": {
-          "status_code": 5xx,
-          "status": "Internal Server Error"
-          }
-        }
-    ```
 
     - Nginx should respond to 404 error with a json response:
 
