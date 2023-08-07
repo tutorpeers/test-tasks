@@ -35,3 +35,8 @@ Please, read the task carefully, focus on the big picture first and then proceed
         }
       }
     ```
+
+3. Configure additional AWS services:
+
+   - S3 service enpoint in private VPC
+   - send Nginx access and error logs to CloudWatch
