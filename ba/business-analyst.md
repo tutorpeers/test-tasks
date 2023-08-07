@@ -10,6 +10,6 @@ A reasonable set of pre-conditions or expectations is up to you, where relevant.
 3. Prepare a User Story describing an app to manage settings of an automated cat feeder. Please, focus on the feeding process itself. Assume the user has already created an account.
 4. Prepare a User Story describing the functionality of the Google Hangouts online meeting tool.
 5. Prepare a User Story describing vet availability management to allow pet owners to schedule appointments online.
-6. Prepare a User Story describing a freelancer marketplace sign-up process. Consider the ability to sign up with email and password or with a LinkedIn account.
+6. Prepare a User Story describing a freelancer marketplace sign-up process. Consider the abilities to sign up with email and password or with a LinkedIn account.
 
 Good luck!
