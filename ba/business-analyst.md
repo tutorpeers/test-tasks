@@ -1,7 +1,7 @@
 # Business Analyst task
 
 The goal of this task is to write a User Story in a rule-oriented format. Please, cover both positive and negative scenarios, focus on ensuring its exhaustiveness and absence of ambiguities, and avoid redundant repetition of similar requirements.
-Additionally, stick to functional requirements and try to refrain from making UI or UX decisions. 
+Stick to functional requirements and refrain from making UI or UX decisions. Additionally, ensure that each User Story you write covers a shippable increment of functionality and can be delivered to production independently from other features.
 
 A reasonable set of pre-conditions or expectations is up to you, where relevant. Just submit them and any extra ideas not covered by the story.
 
