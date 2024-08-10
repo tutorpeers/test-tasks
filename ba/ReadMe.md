@@ -1,4 +1,4 @@
-# Business Analyst tasks
+# Business Analyst task
 
 
 The goal of this task is to write a User Story in a rule-oriented format. Please cover both positive and negative scenarios, ensure their exhaustiveness and absence of ambiguities, and avoid repetition of similar requirements.
